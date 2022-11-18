@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import com.kosa.dao.BoardDAO;
 import com.kosa.model.BoardDTO;
 
-
+// 명구-수정
 @WebServlet("/board")
 public class BoardController extends HttpServlet {
 
